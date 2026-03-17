@@ -25,7 +25,7 @@
     "dnssec",
     "nameserver"
   ],
-  "author": "Elvatis <info@example.invalid>",
+  "author": "Elvatis <emre.kohler@elvatis.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
